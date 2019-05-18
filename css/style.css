@@ -13,4 +13,13 @@ body {
 
 .header {
   background-color: white;
+  margin: 0;
+  padding: 0;
+  height: 100px;
+  vertical-align: middle;
+}
+
+.header span {
+  margin: 0 auto;
+  vertical-align: middle;
 }
